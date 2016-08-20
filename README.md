@@ -1,4 +1,4 @@
-# Building the Web of Things - Code
+#test of Git # Building the Web of Things - Code
 This repository contains all the Node.js and JavaScript code examples from the [Building the Web of Things](http://manning.com/guinard/?a_aid=wot&a_bid=16f48f14) book.
 
 # What is the book about?
